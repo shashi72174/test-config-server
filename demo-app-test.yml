@@ -1,3 +1,3 @@
 my:
-  greeting: Hello from test from remote git using config server
-  message: this is test env from remote git using config server
+  greeting: Hello from test environment from remote git using config server
+  message: this is test environment from remote git using config server
