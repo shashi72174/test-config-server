@@ -1,0 +1,3 @@
+my:
+  greeting: Hello from dev from remote git using config server
+  message: this is dev env from remote git using config server
